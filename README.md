@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my Github!
 
-<!--
-**mehadh/mehadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:technologist: 
 
-Here are some ideas to get you started:
+I am a developer primarily working on [RAGE:MP](https://rage.mp/) projects at the moment. Most of my commits are in **private** repositories, feel free to ask me about them if you're curious. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:floppy_disk:
+
+Generally I don't upload code that I am actively working on. Occasionally I may update the repositories you see here, but if they're listed, they are most likely not in active development. 
+
+:construction_worker:
+
+If anything I've posted on my Github is not working, feel free to reach out to me! I'd be glad to try and troubleshoot any issues or patch any bugs out.
+
+:mailbox_with_mail:
+
+The best way to contact me is on Discord, mehad hamad#4819 (don't forget the space!)
