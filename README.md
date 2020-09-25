@@ -2,15 +2,15 @@
 
 :technologist: 
 
-I am a developer primarily working on [RAGE:MP](https://rage.mp/) projects at the moment. Most of my commits are in **private** repositories, feel free to ask me about them if you're curious. 
+I am a programmer mostly working with Python, Javascript, and SQL. More specifically, I often work with both Node.js and MySQL, and I am an active developer on two [RAGE:MP](https://rage.mp/) projects.
 
 :floppy_disk:
 
-Generally I don't upload code that I am actively working on. Occasionally I may update the repositories you see here, but if they're listed, they are most likely not in active development. 
+The majority of my code is hidden in **private** repositories at the moment. If you're interested in my work, feel free to contact me for more information.
 
 :construction_worker:
 
-If anything I've posted on my Github is not working, feel free to reach out to me! I'd be glad to try and troubleshoot any issues or patch any bugs out.
+If anything I've posted on my Github is not working, feel free to reach out to me! I'd be glad to try and troubleshoot any issues or patch any bugs out. 
 
 :mailbox_with_mail:
 
