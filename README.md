@@ -2,7 +2,7 @@
 
 :technologist: 
 
-I am a programmer mostly working with Python, Javascript, and SQL. More specifically, I often work with both Node.js and MySQL, and I am an active developer on two [RAGE:MP](https://rage.mp/) projects.
+I am a programmer mostly working with Python, Javascript, and SQL. More specifically, I often work with both Node.js and MySQL, and I also frequently work with the [RAGE:MP](https://rage.mp/) platform.
 
 :floppy_disk:
 
