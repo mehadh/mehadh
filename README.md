@@ -12,16 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# سلام (Salam)
-# I'm Mehad!
+# Welcome!
 
 :technologist: 
 
-I am a programmer mostly working with Python, Javascript, and SQL. More specifically, I often work with both Node.js and MySQL, and I also frequently work with the [RAGE:MP](https://rage.mp/) platform. I am also an avid penetration tester and fraud researcher. 
+I am a backend engineer mostly working with Javascript, Python, and SQL. More specifically, I often work with both Node.js and MySQL, and I also frequently work with the [RAGE:MP](https://rage.mp/) platform. I am also an avid penetration tester and fraud researcher, although not all of my work in those fields can be published due to its nature. 
 
 :floppy_disk:
 
-The majority of my code is hidden in **private** repositories at the moment. If you're interested in my work, feel free to contact me for more information.
+Some of my long-term projects are hidden in **private** repositories at the moment. If you're interested in my work, feel free to contact me for more information.
 
 :construction_worker:
 
