@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 :technologist: 
 
-I am a backend engineer mostly working with Javascript, Python, and SQL. More specifically, I often work with both Node.js and MySQL, and I also frequently work with the [RAGE:MP](https://rage.mp/) platform. I am also an avid penetration tester and fraud researcher, although not all of my work in those fields can be published due to its nature. 
+I am a backend engineer mostly working with Javascript, Python, and SQL. More specifically, I often work with both Node.js and MySQL, and I also enjoy working with the [RAGE:MP](https://rage.mp/) platform. I am also heavily involved in pen testing and fraud research.
 
 :floppy_disk:
 
-Some of my long-term projects are hidden in **private** repositories at the moment. If you're interested in my work, feel free to contact me for more information.
+Some of my pen testing & reverse-engineering work is not publicly available due to the nature of the content. If you're interested in seeing some of my private work, feel free to contact me. 
 
 :construction_worker:
 
