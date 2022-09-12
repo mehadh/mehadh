@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 :technologist: 
 
-I am a backend engineer mostly working with Javascript, Python, and SQL. More specifically, I often work with both Node.js and MySQL, and I also enjoy working with the [RAGE:MP](https://rage.mp/) platform. I am also heavily involved in pen testing and fraud research.
+I am a backend engineer mostly working with Javascript, Python, and SQL. I often work with both Node.js and MySQL, and I also enjoy working with the [RAGE:MP](https://rage.mp/) platform. I am also heavily involved in pen testing and fraud research.
 
 :floppy_disk:
 
